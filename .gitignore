@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Environment & Secrets
+.env
+.env.local
+
+# WorkBuddy (project metadata, not source code)
+.workbuddy/
+
+# Output
+output_plots/
+
+# Temp files
+*.tmp
+*.bak
+*.log
