@@ -348,6 +348,3 @@ Windows 控制台 GBK 编码与 UTF-8 不兼容导致，避免在 MCP 服务端 
 **Q: 如何切换 LLM 模型**
 修改 `.env` 中 `QWEN_MODEL` 即可，如 `qwen-turbo`（更快）或 `qwen-max`（更强）。
 
-## License
-
-MIT
