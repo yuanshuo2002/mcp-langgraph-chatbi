@@ -131,5 +131,3 @@ if __name__ == "__main__":
     # 以标准 sse方式运行 MCP 服务器
     mcp.run(transport='sse')
 
-#nohup python statistic_db_mcp_tools.py &
-#nohup uv run statistic_db_mcp_tools.py &  -->官方更推荐这个方法
